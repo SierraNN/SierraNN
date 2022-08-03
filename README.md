@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SierraNN
-- 👀 I’m interested in game development and web development
-- 🌱 I’m currently learning front end and back end coding
+- 👀 I’m interested in being a full-stack developer.
+- 🌱 I’m currently learning Backend Frameworks.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me email: sierra.nutt@outlook.com
 <!---
