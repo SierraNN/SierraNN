@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SierraNN
-- 👀 I’m interested in being a front-end developer or game developer.
+- 👀 I’m interested in being a front-end or full-stack developer.
 - 🌱 I’m currently learning React!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 Email: sierra.nutt@outlook.com
